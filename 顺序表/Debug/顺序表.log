@@ -1,0 +1,13 @@
+﻿D:\c++\ide\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(顺序表.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+E:\c++学习\数据结构\顺序表\顺序表\main.cpp(54,28): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+E:\c++学习\数据结构\顺序表\顺序表\main.cpp(107,23): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\c++学习\数据结构\顺序表\顺序表\main.cpp(117,22): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\c++学习\数据结构\顺序表\顺序表\main.cpp(143,28): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+E:\c++学习\数据结构\顺序表\顺序表\main.cpp(144,37): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+E:\c++学习\数据结构\顺序表\顺序表\main.cpp(144,29): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+  Management.cpp
+  Student.cpp
+E:\c++学习\数据结构\顺序表\顺序表\Student.cpp(24,9): warning C4244: “return”: 从“const __int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  顺序表.vcxproj -> E:\c++学习\数据结构\顺序表\Debug\学生信息管理系统.exe
